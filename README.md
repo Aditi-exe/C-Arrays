@@ -26,5 +26,12 @@ This will display 4 as the output, since it is the third element in the array bu
 Arrays can have integer, float, character or string elements among other data types. The data type must be specified while declaring the array.
 Arrays can be dynamically filled by taking user input in the body of a for loop being executed the same number of times as the size of the array.
 
+Other array declarations include:
+
+```
+char ch_arr[3] = {'a', 'b', 'c'};
+float f_arr[4] = {100.3, 45.97, 26.11, 9.8};
+```
+
 The program in this repository puts forth some uses of arrays and operations that can be performed on them.
 

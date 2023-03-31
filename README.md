@@ -5,4 +5,4 @@ Each element of an array can be accessed by its index, which is an integer value
 
 An array can be represented as follows:
 
-![An image of a one-dimensional array in C.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fc-programming%2Fc-arrays&psig=AOvVaw2tYy7ewDTBM7V7kBj-_LUs&ust=1680371830789000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCwzILfhv4CFQAAAAAdAAAAABAR)
+![An image of a one-dimensional array in C.]

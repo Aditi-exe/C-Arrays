@@ -103,7 +103,7 @@ int main()
 }
 ```
 
-### Output:
+### Outputs:
 
 ![arrays.c output 1](https://github.com/Aditi-exe/C-Arrays/blob/main/L3_Arrays_1.PNG)
 
